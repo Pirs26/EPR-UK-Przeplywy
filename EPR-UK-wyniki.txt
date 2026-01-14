@@ -2,13 +2,18 @@ EPR-UK
 
 Wyniki:
 1.1 - rozkład mocy kosinus
+Done plik 3 [W/m2]
 
 2 - rozkład temp chłodziwa
+Done plik 3
 
 3 - rozkład temp pow zew koszulek
-3.1 - wartości maksymalne
+Done plik 3
 
-4.1 - rozkład temp pow zew koszulek
+3.1 - wartości maksymalne
+Done - wykres temp max
+
+4.1 - rozkład temp pow wew koszulek
 4.2 - wartości maksymalne
 
 5.1 - rozkład spadku temp pow zew pastylki
