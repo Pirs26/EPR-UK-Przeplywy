@@ -11,12 +11,16 @@ Done
 Done
 
 3.1 - wartości maksymalne
-Done - wykres temp max
+Done
 
 4.1 - rozkład temp pow wew koszulek
+Done
+
 4.2 - wartości maksymalne
+Done
 
 5.1 - rozkład spadku temp pow zew pastylki
+
 5.2 - wartości maksymalne
 
 6.1 - rozkład temp w środku pastylki
