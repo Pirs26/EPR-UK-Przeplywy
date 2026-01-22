@@ -2,10 +2,13 @@ EPR-UK
 
 Wyniki:
 1 - rozkład mocy kosinus
+Done
 
 2 - rozkład temp chłodziwa
+Done
 
 3 - rozkład temp pow zew koszulek
+Done
 
 3.1 - wartości maksymalne
 Done - wykres temp max
