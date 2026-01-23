@@ -57,4 +57,4 @@ Done ale do sprawdzenia wartości
 ????????
 
 9 - porównać temp na wylocie rdzenia z dostępnymi danymi
-Zrobiłem iterację 4 razy i mamy 36.4 deltaT gdzie w dokumentacji jest 36
+Zrobiłem iterację 3 razy i mamy 36.4 deltaT gdzie w dokumentacji jest 36
