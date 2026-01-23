@@ -51,8 +51,10 @@ Done
 Done
 
 8.1 - współczynnik odejścia od wrzenia pęcherzykoego DNBR
+Done ale do sprawdzenia wartości
 
 8.2 - porównać z kanałem gorącym
+????????
 
 9 - porównać temp na wylocie rdzenia z dostępnymi danymi
 Zrobiłem iterację 4 razy i mamy 36.4 deltaT gdzie w dokumentacji jest 36
