@@ -20,12 +20,16 @@ Done
 Done
 
 5.1 - rozkład spadku temp pow zew pastylki
+Done
 
 5.2 - wartości maksymalne
+Done
 
 6.1 - rozkład temp w środku pastylki
+Done
 
 6.2 - wartości maksymalne
+Done
 
 7 - straty ciśnienia
 7.1 - od tarcia
